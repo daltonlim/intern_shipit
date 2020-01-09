@@ -1,0 +1,2 @@
+#!/bin/bash
+./ngrok http -region au -subdomain=363tabletennis.au 5000
